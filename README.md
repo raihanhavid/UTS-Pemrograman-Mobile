@@ -25,13 +25,12 @@ Aplikasi ini terdiri dari beberapa fitur interaktif seperti biodata, kalkulator,
 
 | Splash | Berita | Biodata |
 |--------|---------|----------|
-| ![Splash](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/splashscreen.jpg) | ![Berita](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/berita.jpg) | ![Biodata](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/biodata.jpg) |
+| ![Splash](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshots/splashscreen.jpg) | ![Berita](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshots/berita.jpg) | ![Biodata](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshots/biodata.jpg) |
 
 | Kalkulator | Cuaca | Kontak |
 |-------------|--------|---------|
-| ![Kalkulator](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/calculator.jpg) | ![Cuaca](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/cuaca.jpg) | ![Kontak](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/kontak.jpg) |
+| ![Kalkulator](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshots/calculator.jpg) | ![Cuaca](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshots/cuaca.jpg) | ![Kontak](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshots/kontak.jpg) |
 
----
 
 ## ⚙️ Cara Menjalankan Proyek
 
