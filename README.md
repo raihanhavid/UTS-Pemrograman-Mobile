@@ -1,16 +1,50 @@
-# flutter_application_1
+# 🧩 UTS Pemrograman Mobile - Flutter App
 
-A new Flutter project.
+Aplikasi Flutter sederhana sebagai proyek UTS mata kuliah **Pemrograman Mobile**.  
+Aplikasi ini terdiri dari beberapa fitur interaktif seperti biodata, kalkulator, berita, cuaca, dan kontak.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 🧍 **Biodata** — menampilkan informasi pribadi secara rapi.
+- 🧮 **Kalkulator** — melakukan perhitungan dasar.
+- 🌦️ **Cuaca** — menampilkan data cuaca dengan API (jika tersedia).
+- 📰 **Berita** — menampilkan daftar berita dalam tampilan card.
+- ☎️ **Kontak** — menampilkan daftar kontak.
+- 💫 **Splash Screen & Dashboard** — tampilan awal dan navigasi utama yang interaktif.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧱 Struktur Folder Utama
+
+
+---
+
+## 🖼️ Screenshots
+
+| Splash | Berita | Biodata |
+|--------|---------|----------|
+| ![Splash](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/splashscreen.jpg) | ![Berita](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/berita.jpg) | ![Biodata](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/biodata.jpg) |
+
+| Kalkulator | Cuaca | Kontak |
+|-------------|--------|---------|
+| ![Kalkulator](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/calculator.jpg) | ![Cuaca](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/cuaca.jpg) | ![Kontak](https://raw.githubusercontent.com/raihanhavid/UTS-Pemrograman-Mobile/main/assets/screenshot/kontak.jpg) |
+
+---
+
+## ⚙️ Cara Menjalankan Proyek
+
+1. Pastikan sudah menginstal **Flutter SDK** versi terbaru.  
+   👉 [Download Flutter](https://flutter.dev/docs/get-started/install)
+
+2. Clone repository ini:
+   ```bash
+   git clone https://github.com/raihanhavid/UTS-Pemrograman-Mobile.git
+3. Masuk Ke Folder Project
+   cd UTS-Pemrograman-Mobile
+4. Jalankan perintah untuk menginstal dependencies:
+   flutter pub get
+5. Jalankan aplikasi:
+   flutter run
+
